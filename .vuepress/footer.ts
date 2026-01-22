@@ -4,24 +4,24 @@
 export default {
   friendLinks: [
     {
-      label: "站长 - 程序员鱼皮",
+      label: "운영자 - 프로그래머 YuPi",
       // icon: "/icon/user.svg",
       href: "https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah",
     },
     {
-      label: "鱼鸢网络",
+      label: "YuYuan Network (鱼鸢网络)",
       href: "https://yuyuanweb.com/",
     },
     {
-      label: "老鱼简历",
+      label: "LaoYu 이력서 (老鱼简历)",
       href: "https://www.laoyujianli.com/",
     },
     {
-      label: "面试鸭",
+      label: "면접 오리 (面试鸭)",
       href: "https://www.mianshiya.com/",
     },
     {
-      label: "编程学习圈",
+      label: "프로그래밍 학습 서클",
       href: "https://www.codefather.cn/",
     },
   ],
