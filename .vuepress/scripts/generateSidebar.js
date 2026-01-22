@@ -51,7 +51,7 @@ function generateSidebarConfig(dirPath) {
       fileInfos
         .sort((a, b) => b.birthtime.getTime() - a.birthtime.getTime())
         .forEach((fileInfo) => {
-          if (fileInfo.path.includes("🔥DeepSeek 小白快速上手指南")) {
+          if (fileInfo.path.includes("🔥DeepSeek_초보자_빠른_시작_가이드")) {
             config.unshift(fileInfo.path); // 将该文件放在最前面
           } else {
             config.push(fileInfo.path);

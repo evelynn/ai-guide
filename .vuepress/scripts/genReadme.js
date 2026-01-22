@@ -22,7 +22,7 @@ function genReadme(directory) {
 // 递归生成 Markdown 内容
 function generateContent(directory, dirName) {
   let content = `# ${dirName}\n\n`;
-  content += `> 你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)\n\n`;
+  content += `> 여러분의 포괄적인 AI 지식베이스, 최신 AI 뉴스를 한눈에, [https://ai.codefather.cn](https://ai.codefather.cn) 에서 확인하세요\n\n`;
 
   // 获取所有一级子目录并按创建时间排序，最新的放在前面
   const subDirs = getSubDirectories(directory).sort((a, b) => {
@@ -43,8 +43,8 @@ function generateContent(directory, dirName) {
         // First check for DeepSeek guide
         const nameA = path.basename(a);
         const nameB = path.basename(b);
-        if (nameA.includes("🔥DeepSeek 小白快速上手指南")) return -1;
-        if (nameB.includes("🔥DeepSeek 小白快速上手指南")) return 1;
+        if (nameA.includes("🔥DeepSeek_초보자_빠른_시작_가이드")) return -1;
+        if (nameB.includes("🔥DeepSeek_초보자_빠른_시작_가이드")) return 1;
 
         // Then sort by date for other files
         const statA = fs.statSync(a);
@@ -81,7 +81,7 @@ function generateContent(directory, dirName) {
   }
   if (subDirs.length > 0) {
     // 添加底部内容
-    content += `> 你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)\n\n`;
+    content += `> 여러분의 포괄적인 AI 지식베이스, 최신 AI 뉴스를 한눈에, [https://ai.codefather.cn](https://ai.codefather.cn) 에서 확인하세요\n\n`;
   }
 
   return content;
