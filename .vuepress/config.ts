@@ -127,7 +127,7 @@ export default defineConfig({
     logo: "/logo.png",
     nav: navbar,
     sidebar,
-    lastUpdated: "最近更新",
+    lastUpdated: "최근 업데이트",
 
     // GitHub 仓库位置
     repo: "liyupi/ai-guide",
@@ -135,7 +135,7 @@ export default defineConfig({
 
     // 编辑链接
     editLinks: true,
-    editLinkText: "完善页面",
+    editLinkText: "페이지 개선",
 
     // @ts-ignore
     // 底部版权信息

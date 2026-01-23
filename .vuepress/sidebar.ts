@@ -4,6 +4,6 @@ import AI from "./sidebars/ai";
 export default {
   "/AI/": AI,
   "/AI项目教程/": AI,
-  // 降级，默认根据文章标题渲染侧边栏
+  // 폴백, 기본적으로 기사 제목을 기반으로 사이드바 렌더링
   "/": "auto",
 } as SidebarConfig4Multiple;
