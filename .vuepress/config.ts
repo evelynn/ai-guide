@@ -4,27 +4,27 @@ import footer from "./footer";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
 
-const author = "程序员鱼皮";
+const author = "프로그래머 피쉬 피";
 const domain = "https://ai.codefather.cn";
 const tags = [
   "ai",
   "deepseek",
-  "AI 资讯",
-  "人工智能",
-  "AI 行业趋势",
-  "AI 技术",
-  "AI 新闻",
-  "AI 动态",
-  "AI 市场分析",
-  "AI 模型",
-  "AI 独家分析",
-  "AI 深度解读",
+  "AI 뉴스",
+  "인공지능",
+  "AI 산업 동향",
+  "AI 기술",
+  "AI 뉴스",
+  "AI 동향",
+  "AI 시장 분석",
+  "AI 모델",
+  "AI 독점 분석",
+  "AI 심층 해석",
 ];
 
 export default defineConfig({
-  title: "鱼皮 AI 知识库",
+  title: "피쉬 피 AI 지식베이스",
   description:
-    "鱼皮 AI 知识库 - 免费 DeepSeek 教程｜工具站｜资源库，是一站式开源免费的人工智能知识分享平台，汇集 Deepseek、GPT 等热门 AI 工具介绍、使用指南、技巧分享、应用场景、AI 变现、行业资讯、教程资源汇总，提供系统化的 AI 教程、精选 AI 资源，助你快速掌握 AI 技术，成为 AI 专家！",
+    "피쉬 피 AI 지식베이스 - 무료 DeepSeek 튜토리얼｜도구 사이트｜리소스 라이브러리는 원스톱 오픈 소스 무료 인공지능 지식 공유 플랫폼입니다. Deepseek, GPT 등 인기 AI 도구 소개, 사용 가이드, 팁 공유, 응용 시나리오, AI 수익화, 산업 뉴스, 튜토리얼 리소스 모음을 제공하며, 체계적인 AI 튜토리얼과 엄선된 AI 리소스를 제공하여 AI 기술을 빠르게 습득하고 AI 전문가가 되도록 돕습니다!",
   head: [
     // 站点图标
     ["link", { rel: "icon", href: "/favicon.ico" }],
@@ -34,7 +34,7 @@ export default defineConfig({
       {
         name: "keywords",
         content:
-          "ai, deepseek, AI 资讯，人工智能，AI 行业趋势，AI 技术，AI 新闻，AI 动态，AI 市场分析，AI 模型，AI 独家分析，AI 深度解读",
+          "ai, deepseek, AI 뉴스, 인공지능, AI 산업 동향, AI 기술, AI 뉴스, AI 동향, AI 시장 분석, AI 모델, AI 독점 분석, AI 심층 해석",
       },
     ],
     // 百度统计
@@ -77,8 +77,8 @@ export default defineConfig({
     [
       "seo",
       {
-        siteTitle: (_, $site) => $site.title + " - 免费 DeepSeek 教程｜工具站｜资源库",
-        title: ($page) => $page.title + " - 免费 DeepSeek 教程｜工具站｜资源库",
+        siteTitle: (_, $site) => $site.title + " - 무료 DeepSeek 튜토리얼｜도구 사이트｜리소스 라이브러리",
+        title: ($page) => $page.title + " - 무료 DeepSeek 튜토리얼｜도구 사이트｜리소스 라이브러리",
         description: ($page) => $page.frontmatter.description || $page.description,
         author: (_, $site) => $site.themeConfig.author || author,
         tags: ($page) => $page.frontmatter.tags || tags,
@@ -106,7 +106,7 @@ export default defineConfig({
     [
       "vuepress-plugin-code-copy",
       {
-        successText: "代码已复制",
+        successText: "코드가 복사되었습니다",
       },
     ],
     // https://github.com/webmasterish/vuepress-plugin-feed
