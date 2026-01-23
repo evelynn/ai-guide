@@ -2,7 +2,7 @@
 export default [
   "",
   {
-    "title": "鱼皮的 AI 指南",
+    "title": "피쉬 피의 AI 가이드",
     "collapsable": true,
     "children": [
       "鱼皮的 AI 指南/鱼皮的 AI 指南 - 0、开篇",
@@ -13,7 +13,7 @@ export default [
     ]
   },
   {
-    "title": "AI项目教程",
+    "title": "AI 프로젝트 튜토리얼",
     "collapsable": true,
     "children": [
       "AI项目教程/AI 海龟汤项目教程",
@@ -24,7 +24,7 @@ export default [
     ]
   },
   {
-    "title": "关于DeepSeek",
+    "title": "DeepSeek 소개",
     "collapsable": true,
     "children": [
       "关于DeepSeek/DeepSeek 创始团队介绍",
@@ -33,7 +33,7 @@ export default [
     ]
   },
   {
-    "title": "DeepSeek资源汇总",
+    "title": "DeepSeek 리소스 모음",
     "collapsable": true,
     "children": [
       "DeepSeek资源汇总/DeepSeek官方整理的模型应用和工具",
@@ -43,7 +43,7 @@ export default [
     ]
   },
   {
-    "title": "AI行业资讯",
+    "title": "AI 산업 뉴스",
     "collapsable": true,
     "children": [
       {
@@ -214,11 +214,11 @@ export default [
     ]
   },
   {
-    "title": "DeepSeek技术解析",
+    "title": "DeepSeek 기술 분석",
     "collapsable": true,
     "children": [
       {
-        "title": "DeepSeek 模型训练",
+        "title": "DeepSeek 모델 훈련",
         "collapsable": true,
         "children": [
           "DeepSeek技术解析/DeepSeek 模型训练/DeepSeek-R1的四个训练阶段",
@@ -228,7 +228,7 @@ export default [
         ]
       },
       {
-        "title": "DeepSeek 技术分析",
+        "title": "DeepSeek 기술 분석",
         "collapsable": true,
         "children": [
           "DeepSeek技术解析/DeepSeek 技术分析/DeepSeek最强专业拆解：清交复教授超硬核解读",
@@ -236,7 +236,7 @@ export default [
           "DeepSeek技术解析/DeepSeek 技术分析/一文详解 DeepSeek 技术架构",
           "DeepSeek技术解析/DeepSeek 技术分析/DeepSeek vs. ChatGPT：谁才是真正的王者？",
           "DeepSeek技术解析/DeepSeek 技术分析/DeepSeek 爆火逻辑、行业影响及对未来AI发展的启示",
-          "DeepSeek技术解析/DeepSeek 技术分析/DeepSeek-R1 技术全景解析：从原理到实践的“炼金术配方”",
+          "DeepSeek技术解析/DeepSeek 技术分析/DeepSeek-R1 技术全景解析：从原理到实践的"炼金术配方"",
           "DeepSeek技术解析/DeepSeek 技术分析/DeepSeek技术解读：从V3到R1的MoE架构创新"
         ]
       }

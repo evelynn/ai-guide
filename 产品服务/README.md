@@ -1,118 +1,118 @@
-# 产品服务
+# 제품 서비스
 
-鱼皮创立的公司 —— 鱼鸢网络，我们的官网：[https://www.yuyuanweb.com](https://www.yuyuanweb.com)
-
-
-
-## 关于我们
-
-鱼鸢网络是一家新兴的互联网科技公司，我们的使命愿景是 “用科技节约您的每一分钟”。
-
-我们希望通过科技创新，为您提升学习、工作、生活、以及获取信息的效率，拥抱更美好的未来。
+어피(鱼皮)가 창립한 회사 —— 鱼鸢网络, 저희 공식 웹사이트: [https://www.yuyuanweb.com](https://www.yuyuanweb.com)
 
 
 
-## 业务领域
+## 회사 소개
 
-自研创新产品 + 编程教育 + 科技自媒体
+鱼鸢网络는 신흥 인터넷 과학기술 회사로, 저희의 사명과 비전은 "기술로 여러분의 매 순간을 절약합니다" 입니다.
+
+저희는 과학기술 혁신을 통해 여러분의 학습, 업무, 생활 및 정보 획득의 효율성을 향상시켜, 더 나은 미래를 맞이하고자 합니다.
 
 
 
-## 产品服务
+## 사업 영역
 
-### 自研产品
+자체 개발 혁신 제품 + 프로그래밍 교육 + 과학기술 미디어
+
+
+
+## 제품 서비스
+
+### 자체 개발 제품
 
 #### 老鱼简历
 
-老鱼简历：[https://laoyujianli.com](https://laoyujianli.com)（快速制作精美专业的个人简历）
+老鱼简历: [https://laoyujianli.com](https://laoyujianli.com) (빠르게 아름답고 전문적인 개인 이력서 제작)
 
-[我做了个网站，帮你写出满分简历！](产品/老鱼简历/我做了个网站，帮你写出满分简历！.md)
+[제가 웹사이트를 만들었어요, 완벽한 이력서 작성을 도와드립니다!](产品/老鱼简历/我做了个网站，帮你写出满分简历！.md)
 
-[我在简历上写了这个，超级加分！](产品/老鱼简历/我在简历上写了这个，超级加分！.md)
+[이력서에 이걸 썼더니, 엄청난 가산점!](产品/老鱼简历/我在简历上写了这个，超级加分！.md)
 
-[要来了我们实习生的简历，仅供参考。。](产品/老鱼简历/要来了我们实习生的简历，仅供参考。。.md)
+[저희 인턴의 이력서를 받았어요, 참고용입니다..](产品/老鱼简历/要来了我们实习生的简历，仅供参考。。.md)
 
 #### 鱼聪明
-鱼聪明 AI：[https://yucongming.com](https://yucongming.com)（智能 AI 助手，写书问答绘画）
+鱼聪明 AI: [https://yucongming.com](https://yucongming.com) (스마트 AI 어시스턴트, 글쓰기 질문답변 그림그리기)
 
-[工具 - 无门槛 AI 对话  绘画神器](产品/鱼聪明/工具%20-%20无门槛%20AI%20对话%20%20绘画神器.md)
+[도구 - 진입장벽 없는 AI 대화 그림 생성 도구](产品/鱼聪明/工具%20-%20无门槛%20AI%20对话%20%20绘画神器.md)
 
 #### 代码小抄
-[工具 - 简单易用的代码分享神器](产品/代码小抄/工具%20-%20简单易用的代码分享神器.md)
+[도구 - 간단하고 사용하기 쉬운 코드 공유 도구](产品/代码小抄/工具%20-%20简单易用的代码分享神器.md)
 
 #### 剪切板助手
 
-[我们做的小工具上线啦！（剪切助手上线）](产品/剪切板助手/工具 - 高颜值的剪切板助手)
+[저희가 만든 작은 도구가 출시되었어요! (클립보드 도우미 출시)](产品/剪切板助手/工具 - 高颜值的剪切板助手)
 
-#### 公益项目
-框框大学：[https://kkdaxue.com](https://kkdaxue.com)（公益项目，大学各专业学习建议汇总）
+#### 공익 프로젝트
+框框大学: [https://kkdaxue.com](https://kkdaxue.com) (공익 프로젝트, 대학 각 전공 학습 조언 모음)
 
-#### 其他
+#### 기타
 
-知识助手：[https://zhishizhushou.com](https://zhishizhushou.com)（强大的知识管理辅助工具）
+知识助手: [https://zhishizhushou.com](https://zhishizhushou.com) (강력한 지식 관리 보조 도구)
 
-### 编程学习
+### 프로그래밍 학습
 
-#### 后端求职突击 - 狂飙后端训练营
+#### 백엔드 취업 집중 - 광속 백엔드 트레이닝 캠프
 
-[150位，我们出成果了！](编程学习/后端求职突击-狂飙训练营/150位，我们出成果了！.md)
+[150명, 저희가 성과를 냈어요!](编程学习/后端求职突击-狂飙训练营/150位，我们出成果了！.md)
 
 #### 编程宝典
 
-[我的编程宝典网站上线啦！](编程学习/编程宝典/我的编程宝典网站上线啦！.md)
+[제 프로그래밍 백과사전 웹사이트가 오픈했어요!](编程学习/编程宝典/我的编程宝典网站上线啦！.md)
 
-### 编程教育
+### 프로그래밍 교육
 
-[💎 学好编程 - 编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 
+[💎 프로그래밍 마스터하기 - 编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde)
 
-编程导航网站：[https://www.codefather.cn](https://www.codefather.cn)（编程交流、面试题、简历修改平台）
+编程导航 웹사이트: [https://www.codefather.cn](https://www.codefather.cn) (프로그래밍 교류, 면접 문제, 이력서 수정 플랫폼)
 
-[后端突击 - 狂飙后端训练营](https://yuyuanweb.feishu.cn/wiki/EShmwklfJifDv4k4fCEcdp0Qnrd) 
+[백엔드 집중 - 광속 백엔드 트레이닝 캠프](https://yuyuanweb.feishu.cn/wiki/EShmwklfJifDv4k4fCEcdp0Qnrd)
 
-[前端突击 - 前端面试训练营](https://yuyuanweb.feishu.cn/wiki/UIoAwQAZLiDecgkVw65cQFoenKf)
+[프론트엔드 집중 - 프론트엔드 면접 트레이닝 캠프](https://yuyuanweb.feishu.cn/wiki/UIoAwQAZLiDecgkVw65cQFoenKf)
 
-[考研陪跑 - 编程导航计狗上岸](https://yuyuanweb.feishu.cn/wiki/Qr35wx2dgif2wNkIwikc0jjRnyw) 
-
-
-
-### 科技自媒体
-
-[程序员鱼皮](https://space.bilibili.com/12890453/)：编程知识、学习经验、科技科普、原创项目分享，全网粉丝量超 150 万
-
-编程导航：编程知识、编程学习经历分享
-
-面试鸭：专注分享优质编程面试题的公众号
-
-无敌信息差：科技类前沿资讯热点分享
-
-鱼聪明 AI：AI 相关内容资讯分享
+[대학원 입시 동반 - 编程导航 컴퓨터과학 합격](https://yuyuanweb.feishu.cn/wiki/Qr35wx2dgif2wNkIwikc0jjRnyw)
 
 
 
-## 合作伙伴
+### 과학기술 미디어
 
-我们的合作伙伴包括：
+[프로그래머 어피](https://space.bilibili.com/12890453/): 프로그래밍 지식, 학습 경험, 과학기술 대중화, 오리지널 프로젝트 공유, 전체 플랫폼 팔로워 150만 초과
 
-1）50 多名编程、科技、知识领域的自媒体博主 / 技术专家
+编程导航: 프로그래밍 지식, 프로그래밍 학습 경험 공유
 
-2）微软官方认证的商业合作伙伴
+面试鸭: 우수한 프로그래밍 면접 문제 공유에 전념하는 공식 계정
 
-3）科大讯飞、Api Fox 等知名公司和产品合作
+无敌信息差: 과학기술 분야 최신 정보 핫 이슈 공유
 
-
-
-## 团队信息
-
-[年轻快乐的团队](https://yuyuanweb.feishu.cn/wiki/DmB9wCm52iVVQLk98E2clx26nFg) 
+鱼聪明 AI: AI 관련 콘텐츠 정보 공유
 
 
 
-## 加入我们
+## 파트너
 
-[招聘岗位](https://yuyuanweb.feishu.cn/wiki/GlMiw80xIiOC3PkQb59c5ecKnoH) 
+저희의 파트너는 다음을 포함합니다:
+
+1) 50여 명의 프로그래밍, 과학기술, 지식 분야의 미디어 블로거 / 기술 전문가
+
+2) Microsoft 공식 인증 비즈니스 파트너
+
+3) 科大讯飞, Api Fox 등 유명 기업 및 제품 협력
 
 
 
-## 商务合作
+## 팀 정보
 
-点击联系我们：[商务合作](https://yuyuanweb.feishu.cn/wiki/AOzgw1mOliX6SskAVEicK6u7nDA) 
+[젊고 즐거운 팀](https://yuyuanweb.feishu.cn/wiki/DmB9wCm52iVVQLk98E2clx26nFg)
+
+
+
+## 함께하기
+
+[채용 포지션](https://yuyuanweb.feishu.cn/wiki/GlMiw80xIiOC3PkQb59c5ecKnoH)
+
+
+
+## 비즈니스 협력
+
+문의하기: [비즈니스 협력](https://yuyuanweb.feishu.cn/wiki/AOzgw1mOliX6SskAVEicK6u7nDA) 
